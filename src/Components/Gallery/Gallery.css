@@ -1,0 +1,16 @@
+.c-element {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+.c-element-div {
+    margin: 20px;
+    border: 10px solid rgba(36, 227, 163, 0.717);
+    padding: 10px 50px;
+    background-color: rgba(230, 246, 194, 0.785);
+    color: black
+}
+.c-element-button{
+    border-top: 10px rgba(36, 227, 163, 0.717) solid;
+}
